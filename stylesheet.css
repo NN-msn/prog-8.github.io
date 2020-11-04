@@ -1,0 +1,47 @@
+body{
+  margin: 0%;
+  font: inherit;
+  font-size: 100%;
+}
+
+.header {
+  background-color:#F6F5E8;
+}
+.header-title {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  padding-top: 40px
+}
+.main {
+  background-color:#F6F5E8;
+}
+.brand-list-logo {
+  padding-top: 20px;
+  padding-left: 60px;
+  font-weight: bold;
+  color: #ff5f17;
+}
+.brand-contents {
+  margin:0px 60px;
+  padding-top: 30px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.brand {
+ margin-left: 4%;
+ width: 46%;
+}
+.contents-date {
+  font-size: 6px;
+}
+.fotter {
+  background-color:#CC9966;
+}
+.fotter-list {
+  padding:40px;
+}
+p {
+  margin:0;
+}
